@@ -1,0 +1,116 @@
+{
+  "basic": {
+    "level":"Basic",
+    "courses":[
+      {
+        "id":1,
+        "title":"Vue 101",
+        "descripttion":"this is a beginners course to vue 3",
+        "chapters":10
+      },
+      {
+        "id":2,
+        "title":"React 101",
+        "descripttion":"this is a beginners course to React",
+        "chapters":10
+      },
+      {
+        "id":3,
+        "title":"Laravel 101",
+        "descripttion":"this is a beginners course to Laravel",
+        "chapters":10
+      },
+      {
+        "id":4,
+        "title":"Python 101",
+        "descripttion":"this is a beginners course to Python",
+        "chapters":10
+      },
+    ]
+  },
+  "middle": {
+    "level":"Intermediate",
+    "courses":[
+      {
+        "id":1,
+        "title":"Vue 200",
+        "descripttion":"this is an intermdediate course to vue 3",
+        "chapters":10
+      },
+      {
+        "id":2,
+        "title":"React 200",
+        "descripttion":"this is an intermdediate course to React",
+        "chapters":10
+      },
+      {
+        "id":3,
+        "title":"Laravel 200",
+        "descripttion":"this is an intermdediate course to Laravel",
+        "chapters":10
+      },
+      {
+        "id":4,
+        "title":"Python 200",
+        "descripttion":"this is an intermdediate course to Python",
+        "chapters":10
+      },
+    ]
+  },
+  "advanced": {
+    "level":"Advanced",
+    "courses":[
+      {
+        "id":1,
+        "title":"Vue 300",
+        "descripttion":"this is an advanced course to vue 3",
+        "chapters":20
+      },
+      {
+        "id":2,
+        "title":"React 300",
+        "descripttion":"this is an advanced course to React",
+        "chapters":20
+      },
+      {
+        "id":3,
+        "title":"Laravel 300",
+        "descripttion":"this is an advanced course to Laravel",
+        "chapters":30
+      },
+      {
+        "id":4,
+        "title":"Python 300",
+        "descripttion":"this is an advanced course to Python",
+        "chapters":10
+      },
+    ]
+  },
+  "progress":{
+    "courses":[
+      {
+        "id":1,
+        "title":"Vue 101",
+        "descripttion":"this is a beginners course to vue 3",
+        "chapters":10,
+        "progress":2
+      },
+      {
+        "id":2,
+        "title":"React 200",
+        "descripttion":"this is an intermdediate course to React",
+        "chapters":10,
+        "progress":4
+      },
+       {
+        "id":3,
+        "title":"Laravel 101",
+        "descripttion":"this is a beginners course to Laravel",
+        "chapters":10,
+        "progress":1
+      },
+      
+    ]
+  }
+  
+}
