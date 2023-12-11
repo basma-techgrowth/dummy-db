@@ -6,25 +6,29 @@
         "id":1,
         "title":"Vue 101",
         "descripttion":"this is a beginners course to vue 3",
-        "chapters":10
+        "chapters":10,
+        "img":"https://cdn.vuetifyjs.com/images/parallax/material.jpg"
       },
       {
         "id":2,
         "title":"React 101",
         "descripttion":"this is a beginners course to React",
-        "chapters":10
+        "chapters":10,
+        "img":"https://cdn.vuetifyjs.com/images/parallax/material.jpg"
       },
       {
         "id":3,
         "title":"Laravel 101",
         "descripttion":"this is a beginners course to Laravel",
-        "chapters":10
+        "chapters":10,
+        "img":"https://cdn.vuetifyjs.com/images/parallax/material.jpg"
       },
       {
         "id":4,
         "title":"Python 101",
         "descripttion":"this is a beginners course to Python",
-        "chapters":10
+        "chapters":10,
+        "img":"https://cdn.vuetifyjs.com/images/parallax/material.jpg"
       },
     ]
   },
@@ -35,25 +39,29 @@
         "id":1,
         "title":"Vue 200",
         "descripttion":"this is an intermdediate course to vue 3",
-        "chapters":10
+        "chapters":10,
+        "img":"https://cdn.vuetifyjs.com/images/parallax/material.jpg"
       },
       {
         "id":2,
         "title":"React 200",
         "descripttion":"this is an intermdediate course to React",
-        "chapters":10
+        "chapters":10,
+        "img":"https://cdn.vuetifyjs.com/images/parallax/material.jpg"
       },
       {
         "id":3,
         "title":"Laravel 200",
         "descripttion":"this is an intermdediate course to Laravel",
-        "chapters":10
+        "chapters":10,
+        "img":"https://cdn.vuetifyjs.com/images/parallax/material.jpg"
       },
       {
         "id":4,
         "title":"Python 200",
         "descripttion":"this is an intermdediate course to Python",
-        "chapters":10
+        "chapters":10,
+        "img":"https://cdn.vuetifyjs.com/images/parallax/material.jpg"
       },
     ]
   },
@@ -64,25 +72,29 @@
         "id":1,
         "title":"Vue 300",
         "descripttion":"this is an advanced course to vue 3",
-        "chapters":20
+        "chapters":20,
+        "img":"https://cdn.vuetifyjs.com/images/parallax/material.jpg"
       },
       {
         "id":2,
         "title":"React 300",
         "descripttion":"this is an advanced course to React",
-        "chapters":20
+        "chapters":20,
+        "img":"https://cdn.vuetifyjs.com/images/parallax/material.jpg"
       },
       {
         "id":3,
         "title":"Laravel 300",
         "descripttion":"this is an advanced course to Laravel",
-        "chapters":30
+        "chapters":30,
+        "img":"https://cdn.vuetifyjs.com/images/parallax/material.jpg"
       },
       {
         "id":4,
         "title":"Python 300",
         "descripttion":"this is an advanced course to Python",
-        "chapters":10
+        "chapters":10,
+        "img":"https://cdn.vuetifyjs.com/images/parallax/material.jpg"
       },
     ]
   },
@@ -93,21 +105,24 @@
         "title":"Vue 101",
         "descripttion":"this is a beginners course to vue 3",
         "chapters":10,
-        "progress":2
+        "progress":2,
+        "img":"https://cdn.vuetifyjs.com/images/parallax/material.jpg"
       },
       {
         "id":2,
         "title":"React 200",
         "descripttion":"this is an intermdediate course to React",
         "chapters":10,
-        "progress":4
+        "progress":4,
+        "img":"https://cdn.vuetifyjs.com/images/parallax/material.jpg"
       },
        {
         "id":3,
         "title":"Laravel 101",
         "descripttion":"this is a beginners course to Laravel",
         "chapters":10,
-        "progress":1
+        "progress":1,
+        "img":"https://cdn.vuetifyjs.com/images/parallax/material.jpg"
       },
       
     ]
